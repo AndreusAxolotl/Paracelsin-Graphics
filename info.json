@@ -1,0 +1,13 @@
+{
+  "name": "Paracelsin-Graphics",
+  "version": "1.6.16",
+  "title": "Paracelsin Graphics",
+  "author": "AndreusAxolotl",
+  "homepage": "https://github.com/AndreusAxolotl/Paracelsin-Graphics",
+  "description": "The graphics mod that makes Paracelsin work",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base",
+    "space-age"
+  ]
+}
